@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-mediastoredata:1.11.296">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediastoredata/1.11.296/95a91f9ed55167bbd6631a37038ef0b5579307e7/aws-java-sdk-mediastoredata-1.11.296.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-mediastoredata/1.11.296/4323c6479064f5909e9b0c90aeab3eed78465eb0/aws-java-sdk-mediastoredata-1.11.296-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

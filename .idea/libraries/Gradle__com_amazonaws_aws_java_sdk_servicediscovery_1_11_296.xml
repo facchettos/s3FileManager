@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-servicediscovery:1.11.296">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-servicediscovery/1.11.296/1c45309b173c852978e6fbb06c7c64e233d6185f/aws-java-sdk-servicediscovery-1.11.296.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-servicediscovery/1.11.296/4acacedc1f8ef7089cbe35cdcec6898a1661782f/aws-java-sdk-servicediscovery-1.11.296-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
